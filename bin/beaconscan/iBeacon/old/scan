@@ -1,0 +1,5 @@
+#!/bin/sh
+clear
+sudo hciconfig hci0 up
+sudo python testblescan2.py
+

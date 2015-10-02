@@ -1,0 +1,3 @@
+#beaconscan.ini
+
+initfile.server = /home/smartuser/etc/beaconscan.ini

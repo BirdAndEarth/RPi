@@ -1,0 +1,4 @@
+#!/bin/sh
+sudo hciconfig hci0 up
+sudo python /home/smartuser/bin/beaconscan/iBeacon/beaconscan.py
+
